@@ -70,5 +70,5 @@ jupyter notebook $notebook_name$.ipynb
 Copyright © 2016-2017 Jose Gallego.
 
 <p align="justify">
-This project is distributed under the <a href="LICENSE">MIT license</a>. This was developed as part of the Machine Learning 1 and 2 courses taught by Patrick Forré, Max Welling and Joris Mooij at the University of Amsterdam. Please follow the <a href="http://student.uva.nl/en/az/content/plagiarism-and-fraud/plagiarism-and-fraud.html">UvA regulations governing Fraud and Plagiarism</a> in case you are a student.
+This project is distributed under the <a href="LICENSE">MIT license</a>. This was developed as part of the Machine Learning 1 and 2 courses taught by Patrick Forré, Max Welling and Joris Mooij at the University of Amsterdam. Please follow the <a href="http://student.uva.nl/en/content/az/plagiarism-and-fraud/plagiarism-and-fraud.html">UvA regulations governing Fraud and Plagiarism</a> in case you are a student.
 </p>
